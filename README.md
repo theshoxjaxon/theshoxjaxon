@@ -1,13 +1,13 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:700/1*PlyeRxCFLCbP8cL7uuVt5g.gif)]()
 <h1 align="center">Hi 👋, I'm Shokhjakhon</h1>
-<h3 align="center">A passionate Full Stack Developer from Uzbekistan )</h3>
+<h3 align="center">A passionate Full Stack Developer )</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*C-cPP9D2MIyeexAT.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theshoxjaxon&label=Profile%20views&color=0e75b6&style=flat" alt="theshoxjaxon" /> </p>
 
 <p align="left"> <a href="https://twitter.com/shoxjaxonxolmu1" target="blank"><img src="https://img.shields.io/twitter/follow/shoxjaxonxolmu1?logo=twitter&style=for-the-badge" alt="shoxjaxonxolmu1" /></a> </p>
 
-- 🌱 I’m currently learning **C/C++ and Python**
+- 🌱 I’m currently learning **Java and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/theshoxjaxon/repositories](https://github.com/theshoxjaxon/repositories)
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **theshoxjaxon@gmail.com**
 
-- ⚡ Fun fact **I think, I am very compatible.**
+- ⚡ Fact **I have been studying CS in Riga Tech University ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
