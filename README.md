@@ -39,11 +39,6 @@ I am a product-minded software engineer based in Uzbekistan, focused on building
 
 ---
 
-## 📈 Engineering Stats
-![Shoxjaxon's GitHub stats](https://github-readme-stats.vercel.app/api?username=theshoxjaxon&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theshoxjaxon&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/shoxjaxon-xolmurodov/](https://linkedin.com/in/shoxjaxon-xolmurodov/)
